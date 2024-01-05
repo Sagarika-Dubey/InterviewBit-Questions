@@ -1,6 +1,3 @@
-import java.lang.*;
-import java.util.*;
-
 public class datatypes {
     public static void main(String[] args) {
         String mystring1 = "InterviewBit";
